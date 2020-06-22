@@ -11,8 +11,8 @@ The score history is kept until you run the game and exit. (I don't know if it's
 Users can adjust background music volume and sfx volume using left and right arrow keys.
 
 # Visual flow
-![flow](image/floW.PNG)
+![flow](images/flow.PNG)
 
 # A rough drawing of what the play scene
-![mainmenu](image/mainmenU.PNG)
-![playscene](image/play_ScenE.PNG)
+![mainmenu](images/mainmenu.PNG)
+![playscene](images/play.PNG)
