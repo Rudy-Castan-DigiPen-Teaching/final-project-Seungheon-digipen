@@ -14,5 +14,5 @@ Users can adjust background music volume and sfx volume using left and right arr
 ![FLOW](image/flow.PNG)
 
 # A rough drawing of what the play scene
-![MAIN MENU](image/mainmeny.PNG)
+![MAIN MENU](image/mainmenu.PNG)
 ![Play Scene](image/play_scene.PNG)
